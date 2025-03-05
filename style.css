@@ -1,0 +1,65 @@
+html,body{
+    margin : 0;
+    height: 100%;
+    font-size: 16px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.ping1{
+    background-image: url(images/nature1.jpg);
+    min-height: 100%;
+    background-position: center;
+    beckground-size: cover;
+    position: relative;
+    beckground-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.ping2{
+    background-image: url(images/nature2.jpg);
+    min-height: 400px;
+    background-position: center;
+    beckground-size: cover;
+    position: relative;
+    beckground-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ping3{
+    background-image: url(images/nature5.jpg);
+    min-height: 400px;
+    background-position: center;
+    beckground-size: cover;
+    position: relative;
+    beckground-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ptext{
+    text-align: center;
+    top: 50%;
+    position: absolute;
+    width: 100%;
+    color: black;
+    text-transform: uppercase;
+    font-size: 27px;
+    letter-spacing: 8px;
+}
+.textBg{
+    padding: 20px;
+    background-color: #666;
+    color: white;
+
+}
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;
+}
+.section-dark{
+    background-color: #282e34;
+    color: #ddd;
+}
